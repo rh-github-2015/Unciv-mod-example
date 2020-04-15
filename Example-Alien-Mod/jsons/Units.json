@@ -7,11 +7,11 @@
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
-		"range": 2,
+		"range": 1,
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","Extended Range"],
 		"attackSound": "phasers"
 	}
 ]
